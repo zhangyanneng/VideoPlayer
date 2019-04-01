@@ -16,6 +16,7 @@ class YNVideoPlayer: UIView,UIGestureRecognizerDelegate {
     var isForceLandscape = false //是否强制横屏
     
     //添加注释，注释啊
+    //再次添加注释，进行合并啊
     private var playerItem: AVPlayerItem?
     private var player:AVPlayer?
     private var playerLayer:AVPlayerLayer?
