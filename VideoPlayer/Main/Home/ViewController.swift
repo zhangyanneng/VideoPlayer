@@ -12,6 +12,7 @@ import AVFoundation
 class ViewController: BaseViewController {
     
     //网络资源加载
+    //分支上添加代码了
     let networkUrl = "http://flv3.bn.netease.com/tvmrepo/2018/4/N/J/EDDSUKMNJ/SD/EDDSUKMNJ-mobile.mp4"
 
     override func viewDidLoad() {
